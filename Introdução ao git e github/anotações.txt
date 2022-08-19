@@ -1,0 +1,17 @@
+para publicar um repositório:
+Primeiro criar o repositório no github
+Adicionar um redme
+copiar o html
+abrir a pasta selecionada e iniciar o gitbash
+
+comando git clone colar o link para vincular ao github
+comando git status para verificar se está tudo ok
+
+cd para entrar na pasta 
+
+após adicionar os arquivos e pastas criadas
+comando git add .
+
+comando git commit -m "Escrever breve descrição sobre o que está subindo"
+
+comando git push para subir ao github
